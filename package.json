@@ -1,0 +1,20 @@
+{
+  "name": "gacooler",
+  "version": "1.0.0",
+  "description": "A hub for students to interact and get info.",
+  "main": "application.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "GA Apprentice Workshop",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.13.3",
+    "express": "^4.13.3",
+    "flash": "^1.1.0",
+    "jade": "^1.11.0",
+    "morgan": "^1.6.1",
+    "pg": "^4.4.1",
+    "session": "^0.1.0"
+  }
+}
